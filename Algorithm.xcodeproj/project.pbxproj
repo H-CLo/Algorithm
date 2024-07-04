@@ -20,6 +20,8 @@
 		076D5F8E2C36A590005EFC03 /* 637. Average of Levels in Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "637. Average of Levels in Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		076D5F902C36A642005EFC03 /* 133. Clone Graph.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "133. Clone Graph.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		076D5F912C36C277005EFC03 /* 530. Minimum Absolute Difference in BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "530. Minimum Absolute Difference in BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		076D5F922C36D852005EFC03 /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		076D5F932C36DADA005EFC03 /* 230. Kth Smallest Element in a BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "230. Kth Smallest Element in a BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0781153C2C198ADC00A606B7 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		07A4D7B52BF89369005D523B /* Algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Algorithm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07A4D7B82BF89369005D523B /* AlgorithmApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmApp.swift; sourceTree = "<group>"; };
@@ -49,6 +51,8 @@
 			isa = PBXGroup;
 			children = (
 				076D5F912C36C277005EFC03 /* 530. Minimum Absolute Difference in BST.playground */,
+				076D5F922C36D852005EFC03 /* 98. Validate Binary Search Tree.playground */,
+				076D5F932C36DADA005EFC03 /* 230. Kth Smallest Element in a BST.playground */,
 			);
 			path = "Binary Tree and Binary Search Tree";
 			sourceTree = "<group>";

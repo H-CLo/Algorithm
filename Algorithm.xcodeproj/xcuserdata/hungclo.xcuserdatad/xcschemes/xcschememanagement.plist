@@ -130,6 +130,27 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>230. Kth Smallest Element in a BST (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>230. Kth Smallest Element in a BST (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>230. Kth Smallest Element in a BST (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
 		<key>26. Remove Duplicates from Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -276,6 +297,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>8</integer>
+		</dict>
+		<key>98. Validate Binary Search Tree (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>98. Validate Binary Search Tree (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>98. Validate Binary Search Tree (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>24</integer>
 		</dict>
 		<key>Algorithm.xcscheme_^#shared#^_</key>
 		<dict>
