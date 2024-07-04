@@ -4,6 +4,48 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>122. Best Time to Buy and Sell Stock || (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>122. Best Time to Buy and Sell Stock || (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>122. Best Time to Buy and Sell Stock || (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>14. Longest Common Prefix (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>14. Longest Common Prefix (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>14. Longest Common Prefix (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>151. Reverse Words in a String (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -23,7 +65,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>4</integer>
 		</dict>
 		<key>153. Find Minimum in Rotated Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +86,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>5</integer>
 		</dict>
 		<key>26. Remove Duplicates from Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
@@ -65,7 +107,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>6</integer>
 		</dict>
 		<key>33. Search in Rotated Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +128,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>2</integer>
 		</dict>
 		<key>58. Length of Last Word (Playground) 1.xcscheme</key>
 		<dict>
@@ -107,7 +149,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>3</integer>
 		</dict>
 		<key>80. Remove Duplicates from Sorted Array II (Playground) 1.xcscheme</key>
 		<dict>
@@ -128,7 +170,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>7</integer>
 		</dict>
 		<key>Algorithm.xcscheme_^#shared#^_</key>
 		<dict>

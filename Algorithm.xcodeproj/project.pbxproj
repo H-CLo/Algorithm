@@ -14,6 +14,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07551BAA2C358F0A009A93F0 /* 122. Best Time to Buy and Sell Stock ||.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock ||.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0781153C2C198ADC00A606B7 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		07A4D7B52BF89369005D523B /* Algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Algorithm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07A4D7B82BF89369005D523B /* AlgorithmApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmApp.swift; sourceTree = "<group>"; };
 		07A4D7BA2BF89369005D523B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,6 +84,8 @@
 				07A4D7CB2BF89627005D523B /* 80. Remove Duplicates from Sorted Array II.playground */,
 				07A4D7CC2BF89E05005D523B /* 58. Length of Last Word.playground */,
 				07A4D7CD2BF8A2F0005D523B /* 151. Reverse Words in a String.playground */,
+				0781153C2C198ADC00A606B7 /* 14. Longest Common Prefix.playground */,
+				07551BAA2C358F0A009A93F0 /* 122. Best Time to Buy and Sell Stock ||.playground */,
 			);
 			path = Array_String;
 			sourceTree = "<group>";
