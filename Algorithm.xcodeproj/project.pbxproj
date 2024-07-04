@@ -15,6 +15,7 @@
 
 /* Begin PBXFileReference section */
 		07551BAA2C358F0A009A93F0 /* 122. Best Time to Buy and Sell Stock ||.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock ||.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		076D5F8A2C369CBC005EFC03 /* 34. Find First and Last Position of Element in Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Find First and Last Position of Element in Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0781153C2C198ADC00A606B7 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		07A4D7B52BF89369005D523B /* Algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Algorithm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07A4D7B82BF89369005D523B /* AlgorithmApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmApp.swift; sourceTree = "<group>"; };
@@ -95,6 +96,7 @@
 			children = (
 				07A4D7C92BF893FB005D523B /* 33. Search in Rotated Sorted Array.playground */,
 				07A4D7CA2BF893FB005D523B /* 153. Find Minimum in Rotated Sorted Array.playground */,
+				076D5F8A2C369CBC005EFC03 /* 34. Find First and Last Position of Element in Sorted Array.playground */,
 			);
 			path = BinarySearch;
 			sourceTree = "<group>";
